@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [20+ Specializations, One Table | Pragmatic AI Labs on Coursera](https://www.youtube.com/watch?v=zGKxicpx5vY)
+- [The Developer Workstation From Zero: new on Coursera #Shorts](https://www.youtube.com/shorts/VCxK5nEXpcw)
 - [Rust Interfaces for Terminal Desktop and Web: new on Coursera #Shorts](https://www.youtube.com/shorts/-H4iSixcu20)
 - [Moving to Rust from Python and Bash: new on Coursera #Shorts](https://www.youtube.com/shorts/J6gKpqniugc)
 - [Amazon Q for Developers and Operations: new on Coursera #Shorts](https://www.youtube.com/shorts/O1nNJ8_niM4)
 - [Rust in the Cloud and DataOps: new on Coursera #Shorts](https://www.youtube.com/shorts/-iW_GLJWB1M)
 - [Building AI Applications: new on Coursera #Shorts](https://www.youtube.com/shorts/4xevvweJp5I)
-- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=r-RQN3Kh8vI)
-- [Data Pipelines with Rust: new on Coursera #Shorts](https://www.youtube.com/shorts/jlNqTWiBysg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
